@@ -1,5 +1,8 @@
 ## TU Dresden - Automotive Mechatronics
 
+
+![vehicles](../docs/vehicles.png)
+
 *Author:* [Georg Beierlein](https://github.com/GeorgBe) <br>
 *Created:* 2026/06/16
 
