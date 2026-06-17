@@ -4,7 +4,7 @@
 ![vehicles](../docs/vehicles.png)
 
 *Author:* [Georg Beierlein](https://github.com/GeorgBe) <br>
-*Created:* 2026/06/16
+*Updated:* 2026/06/16
 
 This is the official organization for open-source software components by the Chair for Automotive Mechatronics.
 
